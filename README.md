@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devsdevera&label=Profile%20views&color=0e75b6&style=flat" alt="devsdevera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsdevera" alt="devsdevera" /></a> </p>
-
 - 🔭 I’m currently working on [Shape.io Game Landing Page](https://devsdevera.com/playtest)
 
 - 🌱 I’m currently learning **Cloud Computing, currently with Amazon Web Services, and using API calls.**
