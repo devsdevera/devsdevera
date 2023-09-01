@@ -34,6 +34,43 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 
 ![Banner](https://media.licdn.com/dms/image/D5616AQFc44u2KbPcJw/profile-displaybackgroundimage-shrink_350_1400/0/1689084679131?e=1698883200&v=beta&t=ALlm3_uGn1AqyRqmcYwRNbIO6YFBIwPOHuJg9JvmN7Y)
 
+<!-- Grid -->
+<div align="center">
+  <a href="https://github.com/repo1">
+    <img src="https://github.com/repo1.png" width="33%" height="200">
+  </a>
+  <a href="https://github.com/repo2">
+    <img src="https://github.com/repo12.png" width="33%" height="200">
+  </a>
+  <a href="https://github.com/repo3">
+    <img src="https://github.com/repo14.png" width="33%" height="200">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/repo4">
+    <img src="https://github.com/repo4.png" width="33%" height="200">
+  </a>
+  <a href="https://github.com/repo5">
+    <img src="https://github.com/repo5.png" width="33%" height="200">
+  </a>
+  <a href="https://github.com/repo6">
+    <img src="https://github.com/repo6.png" width="33%" height="200">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/repo7">
+    <img src="https://github.com/repo7.png" width="33%" height="200">
+  </a>
+  <a href="https://github.com/repo8">
+    <img src="https://github.com/repo15.png" width="33%" height="200">
+  </a>
+  <a href="https://github.com/repo9">
+    <img src="https://github.com/repo20.png" width="33%" height="200">
+  </a>
+</div>
+
 - 🔭 I’m currently working on [Shape.io Game Landing Page](https://devsdevera.com/playtest)
 
 - 🌱 I’m currently learning **Cloud Computing, currently with Amazon Web Services, and using API calls.**
