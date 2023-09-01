@@ -49,7 +49,8 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 
 - ⚡ Fun fact **Secured the Proxime Accessit Dux in High School**
 
-<br></br>
+<br>
+
 ### 🚀 My Favorite Repositories
 <!-- Grid -->
 <div align="center">
