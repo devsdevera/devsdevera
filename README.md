@@ -36,37 +36,37 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 
 <!-- Grid -->
 <div align="center">
-  <a href="https://github.com/repo1">
+  <a href="https://github.com/devsdevera/portfolio">
     <img src="https://github.com/repo1.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/repo2">
+  <a href="https://github.com/devsdevera/shapes.io">
     <img src="https://github.com/repo12.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/repo3">
+  <a href="https://github.com/devsdevera/Ball-Collision-Physics">
     <img src="https://github.com/repo14.png" width="33%" height="200">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/repo4">
+  <a href="https://github.com/devsdevera/Mini-Paint">
     <img src="https://github.com/repo4.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/repo5">
+  <a href="https://github.com/devsdevera/Mini-Audacity">
     <img src="https://github.com/repo5.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/repo6">
+  <a href="https://github.com/devsdevera/Tetromino-Physics">
     <img src="https://github.com/repo6.png" width="33%" height="200">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/repo7">
+  <a href="https://github.com/devsdevera/Database-MS">
     <img src="https://github.com/repo7.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/repo8">
+  <a href="https://github.com/devsdevera/Server-Client-TCP">
     <img src="https://github.com/repo15.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/repo9">
+  <a href="https://github.com/devsdevera/devsdevera">
     <img src="https://github.com/repo20.png" width="33%" height="200">
   </a>
 </div>
