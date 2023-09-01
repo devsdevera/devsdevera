@@ -9,6 +9,7 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsdevera/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Portfolio-green.svg?style=for-the-badge&logo=paintbrush&logoColor=white)](https://devsdevera.com/)
 
+
 ---
 ### 🔱 Languages and Tools
 
@@ -30,6 +31,8 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 
 <br></br>
 ---
+
+![Banner](https://media.licdn.com/dms/image/D5616AQFc44u2KbPcJw/profile-displaybackgroundimage-shrink_350_1400/0/1689084679131?e=1698883200&v=beta&t=ALlm3_uGn1AqyRqmcYwRNbIO6YFBIwPOHuJg9JvmN7Y)
 
 - 🔭 I’m currently working on [Shape.io Game Landing Page](https://devsdevera.com/playtest)
 
