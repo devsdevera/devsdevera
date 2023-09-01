@@ -32,7 +32,8 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 <br></br>
 ---
 
-![Banner](https://media.licdn.com/dms/image/D5616AQFc44u2KbPcJw/profile-displaybackgroundimage-shrink_350_1400/0/1689084679131?e=1698883200&v=beta&t=ALlm3_uGn1AqyRqmcYwRNbIO6YFBIwPOHuJg9JvmN7Y)
+<!--![Banner](https://media.licdn.com/dms/image/D5616AQFc44u2KbPcJw/profile-displaybackgroundimage-shrink_350_1400/0/1689084679131?e=1698883200&v=beta&t=ALlm3_uGn1AqyRqmcYwRNbIO6YFBIwPOHuJg9JvmN7Y)-->
+![Banner](https://github.com/devsdevera/devsdevera/blob/main/banner.png?raw=true)
 
 
 - 🔭 I’m currently working on [Shape.io Game Landing Page](https://devsdevera.com/playtest)
