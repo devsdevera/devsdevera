@@ -54,25 +54,25 @@ I'm a BSc Graduate in Computer Science whose qualifications are tailored to rese
 <!-- Grid -->
 <div align="center">
   <a href="https://github.com/devsdevera/image-classification">
-    <img src="https://github.com/repo1.png" width="33%" height="200">
+    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/gpa-regression">
-    <img src="https://github.com/repo12.png" width="33%" height="200">
+    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/text-classification">
-    <img src="https://github.com/repo14.png" width="33%" height="200">
+    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/devsdevera/bank-database">
-    <img src="https://github.com/repo4.png" width="33%" height="200">
+    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/shapes.io">
-    <img src="https://github.com/repo5.png" width="33%" height="200">
+    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/portfolio">
-    <img src="https://github.com/repo6.png" width="33%" height="200">
+    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
   </a>
 </div>
 
