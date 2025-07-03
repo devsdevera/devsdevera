@@ -56,7 +56,7 @@ I'm a BSc Graduate in Computer Science whose qualifications are tailored to rese
   <a href="https://github.com/devsdevera/image-classification">
     <img src="https://github.com/repo1.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/devsdevera/gpa=regression">
+  <a href="https://github.com/devsdevera/gpa-regression">
     <img src="https://github.com/repo12.png" width="33%" height="200">
   </a>
   <a href="https://github.com/devsdevera/text-classification">
