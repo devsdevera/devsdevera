@@ -1,6 +1,6 @@
 <h1>🕺Emmanuel De Vera</h1>
 
-**`ML Engineer and Data Analyst  (Developer/Student/Researcher)`**
+**`ML Engineer / Data Analyst  (Developer/Student/Researcher)`**
 
 In witnessing the rapid evolution of technology in my youth, I've grown to be curious of what more could be achieved to streamline the way our society operates. In 2007, not too long ago, the first iPhone was announced. Nowadays, people cannot leave the house without it! As the world transitions into the digital age, pursuing a career in Machine Learning allows me to do what I love while working on products that benefit the lives of countless individuals.
 
@@ -14,15 +14,27 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 ### 🔱 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+
+<img align="left" alt="ApacheSpark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+
+
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<!--
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+-->
 
 <!--<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />-->
@@ -35,7 +47,7 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 
 <br>
 
-### 🚀 My Favorite Repositories
+### 🚀 Favorite Projects
 <!-- Grid -->
 <div align="center">
   <a href="https://github.com/devsdevera/portfolio">
@@ -61,22 +73,9 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/devsdevera/Database-MS">
-    <img src="https://github.com/repo7.png" width="33%" height="200">
-  </a>
-  <a href="https://github.com/devsdevera/Server-Client-TCP">
-    <img src="https://github.com/repo15.png" width="33%" height="200">
-  </a>
-  <a href="https://github.com/devsdevera/devsdevera">
-    <img src="https://github.com/repo20.png" width="33%" height="200">
-  </a>
-</div>
 
-
-
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsdevera&show_icons=true&locale=en&layout=compact" alt="devsdevera" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsdevera&show_icons=true&locale=en" alt="devsdevera" /></p>-->
-
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsdevera&show_icons=true&locale=en" alt="devsdevera" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsdevera&" alt="devsdevera" /></p>
+-->
