@@ -1,8 +1,8 @@
 <h1>🕺Emmanuel De Vera</h1>
 
-**`Software Engineer (Developer/Student/Tutor)`**
+**`ML Engineer and Data Analyst  (Developer/Student/Researcher)`**
 
-In witnessing the rapid evolution of technology in my youth, I've grown to be curious of what more could be achieved to streamline the way our society operates. Consider, in 2007, *not too long ago, the first iPhone was announced. Nowadays, people cannot leave the house it! As the world transitions into the digital age, pursuing a career in Software Engineering allows me to do what I love while working on products that benefit the lives of countless individuals.
+In witnessing the rapid evolution of technology in my youth, I've grown to be curious of what more could be achieved to streamline the way our society operates. In 2007, not too long ago, the first iPhone was announced. Nowadays, people cannot leave the house without it! As the world transitions into the digital age, pursuing a career in Machine Learning allows me to do what I love while working on products that benefit the lives of countless individuals.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Resume-red.svg?style=for-the-badge&logo=fire&logoColor=white)](https://devsdevera.com/CV3.pdf)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LeetCode-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devsdevera/)
