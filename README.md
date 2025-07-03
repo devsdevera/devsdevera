@@ -53,25 +53,25 @@ I'm a BSc Graduate in Computer Science whose qualifications are tailored to rese
 ### 🚀 Favorite Projects
 <!-- Grid -->
 <div align="center">
-  <a href="https://github.com/devsdevera/portfolio">
+  <a href="https://github.com/devsdevera/image-classification">
     <img src="https://github.com/repo1.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/devsdevera/shapes.io">
+  <a href="https://github.com/devsdevera/gpa=regression">
     <img src="https://github.com/repo12.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/devsdevera/Ball-Collision-Physics">
+  <a href="https://github.com/devsdevera/text-classification">
     <img src="https://github.com/repo14.png" width="33%" height="200">
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/devsdevera/Mini-Paint">
+  <a href="https://github.com/devsdevera/bank-database">
     <img src="https://github.com/repo4.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/devsdevera/Mini-Audacity">
+  <a href="https://github.com/devsdevera/shapes.io">
     <img src="https://github.com/repo5.png" width="33%" height="200">
   </a>
-  <a href="https://github.com/devsdevera/Tetromino-Physics">
+  <a href="https://github.com/devsdevera/portfolio">
     <img src="https://github.com/repo6.png" width="33%" height="200">
   </a>
 </div>
