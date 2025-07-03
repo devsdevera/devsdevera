@@ -2,14 +2,15 @@
 
 **`ML Engineer / Data Analyst  (Developer/Student/Researcher)`**
 
-In witnessing the rapid evolution of technology in my youth, I've grown to be curious of what more could be achieved to streamline the way our society operates. In 2007, not too long ago, the first iPhone was announced. Nowadays, people cannot leave the house without it! As the world transitions into the digital age, pursuing a career in Machine Learning allows me to do what I love while working on products that benefit the lives of countless individuals.
+I'm a BSc Graduate in Computer Science whose qualifications are tailored to researching and applying Artificial Intelligence systems. This includes implementing Machine Learning models and relevant data preprocessing techniques obtained from my background in Data Science. I strongly believe data driven insights and predictions derived from ML is the next step forward. Whether it's helping businesses or fintech to locate ways to be more efficient, or helping to identify lifesaving medical treatment, that value we can provide gives my work deep purpose.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Resume-red.svg?style=for-the-badge&logo=fire&logoColor=white)](https://devsdevera.com/CV3.pdf)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LeetCode-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devsdevera/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsdevera/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Portfolio-green.svg?style=for-the-badge&logo=paintbrush&logoColor=white)](https://devsdevera.com/)
 
-
+<!--
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LeetCode-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devsdevera/)
+-->
 ---
 ### 🔱 Languages and Tools
 
@@ -36,8 +37,10 @@ In witnessing the rapid evolution of technology in my youth, I've grown to be cu
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 -->
 
-<!--<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />-->
+<!--
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+-->
 
 <br></br>
 ---
