@@ -54,19 +54,19 @@ I'm a BSc Graduate in Computer Science whose qualifications are tailored to rese
 <!-- Grid -->
 <div align="center">
   <a href="https://github.com/devsdevera/image-classification">
-    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
+    <img src="https://github.com/devsdevera/image-classification/blob/e7588d902bc24841973fa0ac04940f9c51aa88b2/preview.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/gpa-regression">
-    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
+    <img src="https://github.com/devsdevera/gpa-regression/blob/8a9bab97973a40a2578f6912f4ff80d093907875/preview.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/text-classification">
-    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
+    <img src="https://github.com/devsdevera/text-classification/blob/ef31dae74b9411fe5eef7e5e52cceedba9fb7b6b/preview.jpg" width="33%">
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/devsdevera/bank-database">
-    <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
+    <img src="https://github.com/devsdevera/bank-database/blob/44045556f7d124afe510dcc88930479cb21252df/preview.jpg" width="33%">
   </a>
   <a href="https://github.com/devsdevera/shapes.io">
     <img src="https://github.com/devsdevera/image-classification/blob/8cc5d767d687a2e334485d5d33a9b271fcf5bae3/thumbnail.jpg" width="33%">
