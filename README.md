@@ -68,11 +68,11 @@ I'm a BSc Graduate in Computer Science whose qualifications are tailored to rese
   <a href="https://github.com/devsdevera/bank-database">
     <img src="https://github.com/devsdevera/bank-database/blob/44045556f7d124afe510dcc88930479cb21252df/preview.jpg" width="33%">
   </a>
-  <a href="https://github.com/devsdevera/shapes.io">
-    <img src="https://github.com/devsdevera/shapes.io/blob/7d2ea98411904319d785969df9ab131181a5b95b/preview.jpg" width="33%">
-  </a>
   <a href="https://github.com/devsdevera/portfolio">
     <img src="https://github.com/devsdevera/portfolio/blob/76ad11adf1aac36b4216f11b1bab63cd892e6976/preview.jpg" width="33%">
+  </a>
+  <a href="https://github.com/devsdevera/shapes.io">
+    <img src="https://github.com/devsdevera/shapes.io/blob/7d2ea98411904319d785969df9ab131181a5b95b/preview.jpg" width="33%">
   </a>
 </div>
 
