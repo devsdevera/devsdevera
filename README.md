@@ -1,6 +1,6 @@
 <h1>🕺Emmanuel De Vera</h1>
 
-**`ML Engineer / Data Analyst  (Developer/Student/Researcher)`**
+**`ML Engineer / Data Scientist  (Developer/Student/Researcher)`**
 
 I'm a BSc Graduate in Computer Science whose qualifications are tailored to researching and applying Artificial Intelligence systems. This includes implementing Machine Learning models and relevant data preprocessing techniques obtained from my background in Data Science. I strongly believe data driven insights and predictions derived from ML is the next step forward. Whether it's helping businesses or fintech to locate ways to be more efficient, or helping to identify lifesaving medical treatment, that value we can provide gives my work deep purpose.
 
