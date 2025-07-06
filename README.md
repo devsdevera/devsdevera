@@ -46,7 +46,7 @@ I'm a BSc Graduate in Computer Science whose qualifications are tailored to rese
 ---
 
 <!--![Banner](https://media.licdn.com/dms/image/D5616AQFc44u2KbPcJw/profile-displaybackgroundimage-shrink_350_1400/0/1689084679131?e=1698883200&v=beta&t=ALlm3_uGn1AqyRqmcYwRNbIO6YFBIwPOHuJg9JvmN7Y)-->
-![Banner](https://github.com/devsdevera/devsdevera/blob/main/placeholder.png?raw=true)
+![Banner](https://github.com/devsdevera/devsdevera/blob/main/banner.png?raw=true)
 
 <br>
 
