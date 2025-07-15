@@ -4,7 +4,7 @@
 
 I'm a BSc Graduate in Computer Science whose qualifications are tailored to researching and applying Artificial Intelligence systems. This includes implementing Machine Learning models and relevant data preprocessing techniques obtained from my background in Data Science. I strongly believe data driven insights and predictions derived from ML is the next step forward. Whether it's helping businesses or fintech to locate ways to be more efficient, or helping to identify lifesaving medical treatment, that value we can provide gives my work deep purpose.
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Resume-red.svg?style=for-the-badge&logo=fire&logoColor=white)](https://devsdevera.com/CV3.pdf)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Resume-red.svg?style=for-the-badge&logo=fire&logoColor=white)](https://devsdevera.com/CV6.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsdevera/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Portfolio-green.svg?style=for-the-badge&logo=paintbrush&logoColor=white)](https://devsdevera.com/)
 
